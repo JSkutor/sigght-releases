@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sigght</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 28 Oct 2026 11:51:35 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JSkutor/sigght-releases/releases/download/v1.0.0/sigght.dmg" length="10496089" type="application/octet-stream" sparkle:edSignature="okUvE8KBsKe/PRVouW63jbhXAqSekCOoGYFLXchmqf6FjT5HXtY8ZWly3jO3WilRnP+MmDIDee+qdYGNEROVCg=="/>
+        </item>
+    </channel>
+</rss>
