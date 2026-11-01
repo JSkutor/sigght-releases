@@ -3,6 +3,14 @@
     <channel>
         <title>sigght</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sun, 01 Nov 2026 19:22:01 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JSkutor/sigght-releases/releases/download/v1.0.3/sigght.dmg" length="10728513" type="application/octet-stream" sparkle:edSignature="O4cj1cvHisM1cFLleSl8zKm0ZlkXq6EY+Pd4r4GMc4IrWTqfcCDcX530q7FUZL279YN4c4zbKBM2JWlGX5tmCA=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 01 Nov 2026 18:15:11 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/JSkutor/sigght-releases/releases/download/v1.0.1/sigght.dmg" length="10567016" type="application/octet-stream" sparkle:edSignature="2XZxR/SqBKVCF1hJC2tMAmsk2iG3Xaa140ypJeKowaRp9INZO+m23rsZA15e9Yonam0YFFCluc0fU+sGaBGSAg=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 28 Oct 2026 11:51:35 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JSkutor/sigght-releases/releases/download/v1.0.0/sigght.dmg" length="10496089" type="application/octet-stream" sparkle:edSignature="okUvE8KBsKe/PRVouW63jbhXAqSekCOoGYFLXchmqf6FjT5HXtY8ZWly3jO3WilRnP+MmDIDee+qdYGNEROVCg=="/>
         </item>
     </channel>
 </rss>
